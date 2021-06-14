@@ -1,0 +1,7 @@
+data/labels/test_mask
+data/labels/train_mask
+data/labels/val_mask
+data/.idea
+data/training_images
+.idea
+data/cityscapes_binary_segment_mask_dataset.zip
